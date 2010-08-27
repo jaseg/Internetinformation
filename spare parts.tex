@@ -1,0 +1,38 @@
+\subsection*{Präambel über die Notwendigkeit der Renovierung der Anbindung an das World Wide Web}
+In einer Institution mit Tradition, in einem Internatsgymnasium mit dem Anspruch, sich in den oberen Teil der Liste der Ausbildungsstätten der zukünftigen Eliten Deutschlands einzureihen, obliegt es der Verantwortung der Schüler jener Schulen, ihre Lehrkräfte in ihrem Bestreben, den Schülern jene Mittel an die Hand zu geben, die zum Erreichen des angestrebten Modus docendi als zeitgemäß oder vonnöten angesehen werden, nach bestem Wissen und in eigener Initiative durch Äußerungen des Schülerwillens zu unterstützen und ihnen bezüglich der Planung nach bestem Vermögen und Gewissen Informationen zukommen zu lassen.
+
+\subsection*{Der momentane Status}
+
+Der Schülerschaft der Landesschule Pforta stehen zur Zeit folgende Internetzugänge offen:
+\begin{enumerate}
+ \item Das Studienzentrum
+\end{enumerate}
+
+Das Studienzentrum hat von Montag bis Donnerstag, jeweils während der Schulzeit, einschließlich der Mittagspause, von 7.30 bis 16.00 Uhr geöffnet sowie über dieselben Tage von 19.00 bis 21.00 Uhr im Abendbereich. Zudem besteht für Schüler der elften und zwölften Klassen die Möglichkeit der Nutzung des Studienzentrums während des Silentiums, für Elftklässler nurmehr unter Aufopferung einer Portion \gfu Sile-Frei\grqq.
+
+\subsection*{Topologie-Erläuterung}
+In den Internaten werden nach Möglichkeit vorhandene Infrastrukturen (vorverlegte LAN-Kabel) verwendet. Fehlen diese, so erfolge die Versorgung per WLAN. Je nach Größe des jeweiligen Internates müssen gegebenenfalles mehrere Router eingesetzt werden, um eine gewisse Bandbreite flächendeckend zur Verfügung zu stellen. Per WDS ist effizientes, weitreichendes Routing möglich. Sämtliche Schüler-PCs befinden sich in ein und demselben Subnetz.
+
+Sämtlicher Traffic fließe an einem zentralen Gigabit-Switch zusammen; nur diejenigen Pakete werden weitergeleitet, deren Ursprungs-MAC-Adresse zu einem auf einen berechtigten Schüler registrierten Computer (bzw.\ dessen NIC) passt. Die Berechtigungslisten  können mit den Administrator-Login-Daten für den Switch von jedem Computer im Netzwerk aus bearbeitet werden (z.B.\ durch Hr. Tesarz).
+Alle Daten werden hernach durch eventuelle Filterinstanzen geleitet, die Restriktionen applizieren können (Sperrung von Web-Sites per Blacklist etc) sowie Verbindungsdaten in beliebigem Ausmaße zu loggen vermögen.
+Hinter den Filtern steht ein Router, dessen Aufgabe es ist, die ankommenden Daten per NAT auf die WAN-Glasfaser(n) zu senden.
+Über die schnelle Internetanbindung können per VoIP mit entsprechender Hardware ohne Veränderung bestehender Telefonanlagen Telefonanschlüsse durch internetbasierte Lösungen ersetzt werden.
+
+\subsection*{Erläuterung des Wortes \glqq Neutralität\grqq\ in der Petition}
+Wir bitten darum, den Einsatz von Überwachungs- und Filtertechnologien auf das absolut notwendige Mindestmaß zu beschränken.
+
+Prinzipiell sind zwei Arten der Speicherung von durch Schüler verursachte Daten möglich: Die Speicherung von Verbindungsdaten erlaubt es, im Nachhinein Zeitpunkt, Quell-MAC- und Quell-IP-Adresse sowie den Ziel-Host zu bestimmen. Am Beispiel der URL \url{http://www.getdigital.de/products/Life_is_too_short_for_56k} ist der Zielhost \url{www.getdigital.de}. Auf DNS-Ebene lassen sich auch einzelne Domainnamen sperren.
+
+Die zweite Möglichkeit wird Deep Packet Inspection (DPI) genannt und umfasst auch eine Durchsuchung des gesamten Datenpaketinhaltes. Dabei werden neben der vollständigen URL auch die Inhalte der aufgerufenen Web-Seiten gespeichert sowie sog. Session-Cookies durchsucht.
+
+Zu Methode 1: Eine Speicherung von verbindungsbezogenen Daten (Vorratsdatenspeicherung) erachten wir als unverhältnismäßigen Eingriff in die Privatspäre der Schüler. Vor kurzem erst wurde die von der Bundesregierung ausgearbeitete Variante einer solchen Speicherung durch das Bundesverfassungsgericht als unverhältnismäßig abgelehnt. Ein weiterer Nachteil solcher Technik ist der hohe Wartungs- und Konfigurationsaufwand. Eine (v.a.\ gegen unberechtigten Zugriff) sichere Speicherung dieser Daten ist für eine relativ kleine Institution wie unsere Schule ohne nennenswerte IT-Kapazitäten schwer realisierbar.
+
+Zu Methode 2: Deep Packet Inspection ist zugleich ein sehr tiefer Eingriff in die Privatsphäre der Schüler, da mit ihr jede E-Mail, jede Facebook-Profilseite durchsucht und gefiltert wird. Sollten hier gespeicherte Daten gehackt werden, wäre der Schaden groß.
+
+Eines der Hauptprobleme von DPI ist, dass die Kosten (Anschaffung, Strom, Wartung) sehr hoch sind und eine gute Wartung der Filtersysteme Voraussetzung ist, da ein Ausfall des Filtersystems die Internetanbindung der gesamten Schule kappen würde. Bei der avisierten Bandbreite sind solche Filtersysteme enorm aufwändig und in Anschaffung wie Betrieb entsprechend teuer.
+
+Ein Kritikpunkt aller Systeme ist die leichte Umgehbarkeit. Die erstgenannten Techniken (sowohl Filter als auch Sperrung) sind bei Schülern mit einem gewissen Maß an Medienkompetenz, wie es in Pforte weit verbreitet ist, und die der Bedienung von Google kundig sind, nicht sehr hilfreich, da sie sehr einfach umgangen werden können (siehe: Diskussion zum \glqq Zugangserschwerungsgesetz\grqq, es existieren YouTube-Videos, die das Umgehen von DNS-Sperren in weniger als einer Minute erklären).
+DPI-Systeme sind schwerer zu umgehen, jedoch können die Sperren z.B.\ mittels eines sog.\ Webproxys auch von Schülern einfach umgangen werden. Die Sperrung von Webproxys ist technisch unmöglich, da sie in zu großer Anzahl vorhanden sind. Die Erhebung von Verbindungsdaten via DPI kann vom Schüler durch die Verwendung sicherer Protokolle wie HTTPS, SSH oder VPN umgangen werden.
+
+Zudem ist es nach unserer Meinung bedenklich, wenn eine Schule die Internetnutzung ihrer Schüler mit derselben Technik überwacht und reglementiert, die in Staaten wie China, Saudi-Arabien, Iran und weiteren zur Unterdrückung politisch ungewollter Meinungen eingesetzt wird.
+
