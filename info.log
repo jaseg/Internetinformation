@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.26)  27 AUG 2010 15:06
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.26)  27 AUG 2010 21:23
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -168,17 +168,6 @@ Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
 ngerman -- \language number for naustrian undefined, default 4 used.
 ngerman -- \language number for French undefined, default 255 used.
 )
-(/usr/share/texmf-texlive/tex/generic/babel/babel.sty
-Package: babel 2008/07/06 v3.8l The Babel package
-
-(/usr/share/texmf-texlive/tex/generic/babel/ngermanb.ldf
-Language: ngermanb 2008/07/06 v2.6n new German support from the babel system
-
-(/usr/share/texmf-texlive/tex/generic/babel/babel.def
-File: babel.def 2008/07/06 v3.8l Babel common definitions
-\babel@savecnt=\count92
-\U@D=\dimen108
-)))
 (/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
 
@@ -191,34 +180,34 @@ Package: tabularx 1999/01/07 v2.07 `tabularx' package (DPC)
 
 (/usr/share/texmf-texlive/tex/latex/tools/array.sty
 Package: array 2008/09/09 v2.4c Tabular extension package (FMi)
-\col@sep=\dimen109
-\extrarowheight=\dimen110
+\col@sep=\dimen108
+\extrarowheight=\dimen109
 \NC@list=\toks21
 \extratabsurround=\skip47
 \backup@length=\skip48
 )
-\TX@col@width=\dimen111
-\TX@old@table=\dimen112
-\TX@old@col=\dimen113
-\TX@target=\dimen114
-\TX@delta=\dimen115
-\TX@cols=\count93
+\TX@col@width=\dimen110
+\TX@old@table=\dimen111
+\TX@old@col=\dimen112
+\TX@target=\dimen113
+\TX@delta=\dimen114
+\TX@cols=\count92
 \TX@ftn=\toks22
 )
 (/usr/share/texmf-texlive/tex/latex/tools/multicol.sty
 Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
-\c@tracingmulticols=\count94
+\c@tracingmulticols=\count93
 \mult@box=\box28
-\multicol@leftmargin=\dimen116
-\c@unbalance=\count95
-\c@collectmore=\count96
-\doublecol@number=\count97
-\multicoltolerance=\count98
-\multicolpretolerance=\count99
-\full@width=\dimen117
-\page@free=\dimen118
-\premulticols=\dimen119
-\postmulticols=\dimen120
+\multicol@leftmargin=\dimen115
+\c@unbalance=\count94
+\c@collectmore=\count95
+\doublecol@number=\count96
+\multicoltolerance=\count97
+\multicolpretolerance=\count98
+\full@width=\dimen116
+\page@free=\dimen117
+\premulticols=\dimen118
+\postmulticols=\dimen119
 \multicolsep=\skip49
 \multicolbaselineskip=\skip50
 \partial@page=\box29
@@ -244,11 +233,11 @@ Package: multicol 2008/12/05 v1.6h multicolumn formatting (FMi)
 \@tempa=\box49
 \@tempa=\box50
 \@tempa=\box51
-\c@columnbadness=\count100
-\c@finalcolumnbadness=\count101
-\last@try=\dimen121
-\multicolovershoot=\dimen122
-\multicolundershoot=\dimen123
+\c@columnbadness=\count99
+\c@finalcolumnbadness=\count100
+\last@try=\dimen120
+\multicolovershoot=\dimen121
+\multicolundershoot=\dimen122
 \mult@nat@firstbox=\box52
 \colbreak@box=\box53
 )
@@ -265,9 +254,9 @@ O)
 (/usr/share/texmf-texlive/tex/latex/oberdiek/xcolor-patch.sty
 Package: xcolor-patch 2009/10/02 xcolor patch
 ))
-\@linkdim=\dimen124
-\Hy@linkcounter=\count102
-\Hy@pagecounter=\count103
+\@linkdim=\dimen123
+\Hy@linkcounter=\count101
+\Hy@pagecounter=\count102
 
 (/usr/share/texmf-texlive/tex/latex/hyperref/pd1enc.def
 File: pd1enc.def 2009/10/09 v6.79a Hyperref: PDFDocEncoding definition (HO)
@@ -327,9 +316,9 @@ Package pdftexcmds Info: LuaTeX not detected.
 Package pdftexcmds Info: \pdf@primitive is available.
 Package pdftexcmds Info: \pdf@ifprimitive is available.
 )))
-\Fld@menulength=\count104
-\Field@Width=\dimen125
-\Fld@charsize=\dimen126
+\Fld@menulength=\count103
+\Field@Width=\dimen124
+\Fld@charsize=\dimen125
 \Field@toks=\toks23
 Package hyperref Info: Hyper figures OFF on input line 4377.
 Package hyperref Info: Link nesting OFF on input line 4382.
@@ -342,13 +331,13 @@ Package hyperref Info: PDF/A mode OFF on input line 4407.
 (/usr/share/texmf-texlive/tex/generic/oberdiek/atbegshi.sty
 Package: atbegshi 2008/07/31 v1.9 At begin shipout hook (HO)
 )
-\Hy@abspage=\count105
-\c@Item=\count106
+\Hy@abspage=\count104
+\c@Item=\count105
 )
 *hyperref using default driver hpdftex*
 (/usr/share/texmf-texlive/tex/latex/hyperref/hpdftex.def
 File: hpdftex.def 2009/10/09 v6.79a Hyperref driver for pdfTeX
-\Fld@listcount=\count107
+\Fld@listcount=\count106
 )
 (/usr/share/texmf-texlive/tex/latex/cite/cite.sty
 LaTeX Info: Redefining \cite on input line 285.
@@ -371,10 +360,10 @@ Package graphics Info: Driver file: pdftex.def on input line 91.
 
 (/usr/share/texmf-texlive/tex/latex/pdftex-def/pdftex.def
 File: pdftex.def 2009/08/25 v0.04m Graphics/color for pdfTeX
-\Gread@gobject=\count108
+\Gread@gobject=\count107
 ))
-\Gin@req@height=\dimen127
-\Gin@req@width=\dimen128
+\Gin@req@height=\dimen126
+\Gin@req@width=\dimen127
 )
 (/usr/share/texmf-texlive/tex/latex/graphics/color.sty
 Package: color 2005/11/14 v1.0j Standard LaTeX Color (DPC)
@@ -387,7 +376,7 @@ Package color Info: Driver file: pdftex.def on input line 130.
 (/usr/share/texmf-texlive/tex/latex/todo/todo.sty
 Package: todo 2002/07/25 v1.1 To-do list (Federico Garcia)
 \@todotoks=\toks24
-\c@todo=\count109
+\c@todo=\count108
 )
 (/usr/share/texmf-texlive/tex/latex/draftwatermark/draftwatermark.sty
 Package: draftwatermark 2006/06/30 1.0 Put a gray textual watermark on document
@@ -400,21 +389,21 @@ Package: everypage 2007/06/20 1.1 Hooks to run on every page
 ) (./info.aux)
 \openout1 = `info.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 50.
-LaTeX Font Info:    ... okay on input line 50.
-LaTeX Font Info:    Try loading font information for T1+ptm on input line 50.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 49.
+LaTeX Font Info:    ... okay on input line 49.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 49.
 
 (/usr/share/texmf-texlive/tex/latex/psnfss/t1ptm.fd
 File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
@@ -463,17 +452,17 @@ driver: pdftex
 
 (1in=72.27pt, 1cm=28.45pt)
 -----------------------
-Package hyperref Info: Link coloring OFF on input line 50.
+Package hyperref Info: Link coloring OFF on input line 49.
 (/usr/share/texmf-texlive/tex/latex/hyperref/nameref.sty
 Package: nameref 2007/05/29 v2.31 Cross-referencing by name of section
 
 (/usr/share/texmf-texlive/tex/latex/oberdiek/refcount.sty
 Package: refcount 2008/08/11 v3.1 Data extraction from references (HO)
 )
-\c@section@level=\count110
+\c@section@level=\count109
 )
-LaTeX Info: Redefining \ref on input line 50.
-LaTeX Info: Redefining \pageref on input line 50.
+LaTeX Info: Redefining \ref on input line 49.
+LaTeX Info: Redefining \pageref on input line 49.
  (./info.out)
 (./info.out)
 \@outlinefile=\write3
@@ -482,18 +471,18 @@ LaTeX Info: Redefining \pageref on input line 50.
 \AtBeginShipoutBox=\box54
  (/usr/share/texmf/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count111
-\scratchdimen=\dimen129
+\scratchcounter=\count110
+\scratchdimen=\dimen128
 \scratchbox=\box55
-\nofMPsegments=\count112
-\nofMParguments=\count113
+\nofMPsegments=\count111
+\nofMParguments=\count112
 \everyMPshowfont=\toks25
-\MPscratchCnt=\count114
-\MPscratchDim=\dimen130
-\MPnumerator=\count115
+\MPscratchCnt=\count113
+\MPscratchDim=\dimen129
+\MPnumerator=\count114
 \everyMPtoPDFconversion=\toks26
 )
-LaTeX Font Info:    Try loading font information for T1+phv on input line 54.
+LaTeX Font Info:    Try loading font information for T1+phv on input line 53.
  (/usr/share/texmf-texlive/tex/latex/psnfss/t1phv.fd
 File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
 )
@@ -502,9 +491,9 @@ File: uni-0.def 2004/10/17 UCS: Unicode data U+0000..U+00FF
 )
 (/usr/share/texmf-texlive/tex/latex/psnfss/t1pcr.fd)
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 88.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 87.
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 88.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 87.
  (./info.toc
 Class scrartcl Info: You've told me to use the font selection of the element
 (scrartcl)           `sectioning' that is an alias of element `disposition'
@@ -545,59 +534,65 @@ Class scrartcl Info: You've told me to use the font selection of the element
 
 ]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 93.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 92.
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 125.
+(multicol)                Footnotes on page 2 might be wrong on input line 124.
 
 
-[2] [3] [4] [5]
+[2]
+
+Package multicol Warning: I moved some lines to the next page.
+(multicol)                Footnotes on page 3 might be wrong on input line 161.
+
+
+[3] [4] [5]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 240.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 239.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 243.
  (./info.bbl) [6] [7]
-Underfull \hbox (badness 10000) in alignment at lines 310--310
+Underfull \hbox (badness 10000) in alignment at lines 309--309
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 322--322
+Underfull \hbox (badness 10000) in alignment at lines 321--321
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 333--333
+Underfull \hbox (badness 10000) in alignment at lines 332--332
 [][] 
  []
 
-<0394-kilobyte.png, id=131, 579.16376pt x 545.03625pt>
+<0394-kilobyte.png, id=132, 579.16376pt x 545.03625pt>
 File: 0394-kilobyte.png Graphic file (type png)
  <use 0394-kilobyte.png>
-Underfull \hbox (badness 10000) in alignment at lines 348--348
+Underfull \hbox (badness 10000) in alignment at lines 347--347
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 357--357
+Underfull \hbox (badness 10000) in alignment at lines 356--356
 [][] 
  []
 
 [8 <./0394-kilobyte.png (PNG copy)>] [9]
-Underfull \hbox (badness 10000) in alignment at lines 381--381
+Underfull \hbox (badness 10000) in alignment at lines 380--380
 [][] 
  []
 
 [10] (./info.aux) ) 
 Here is how much of TeX's memory you used:
- 7535 strings out of 495021
- 108513 string characters out of 1181035
- 217301 words of memory out of 3000000
- 10521 multiletter control sequences out of 15000+50000
+ 7297 strings out of 495021
+ 105535 string characters out of 1181035
+ 210558 words of memory out of 3000000
+ 10292 multiletter control sequences out of 15000+50000
  48632 words of font info for 57 fonts, out of 3000000 for 9000
  29 hyphenation exceptions out of 8191
- 43i,11n,45p,1291b,569s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 43i,11n,45p,1394b,571s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf
 -texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fon
@@ -607,9 +602,9 @@ r8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
 re/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
 s/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on info.pdf (10 pages, 209363 bytes).
+Output written on info.pdf (10 pages, 210104 bytes).
 PDF statistics:
- 197 PDF objects out of 1000 (max. 8388607)
- 40 named destinations out of 1000 (max. 500000)
+ 198 PDF objects out of 1000 (max. 8388607)
+ 41 named destinations out of 1000 (max. 500000)
  134 words of extra memory for PDF output out of 10000 (max. 10000000)
 
