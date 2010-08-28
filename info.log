@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.26)  28 AUG 2010 11:02
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.26)  28 AUG 2010 14:25
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -541,54 +541,44 @@ Package multicol Warning: I moved some lines to the next page.
 (multicol)                Footnotes on page 2 might be wrong on input line 124.
 
 
-[2]
-
-Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 3 might be wrong on input line 161.
-
-
-[3] [4] [5]
+[2] [3] [4] [5]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 239.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 238.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 243.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 242.
  (./info.bbl [6]) [7] [8]
-Underfull \hbox (badness 10000) in alignment at lines 309--309
+Underfull \hbox (badness 10000) in alignment at lines 308--308
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 321--321
+Underfull \hbox (badness 10000) in alignment at lines 320--320
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 332--332
+Underfull \hbox (badness 10000) in alignment at lines 331--331
 [][] 
  []
 
 <0394-kilobyte.png, id=162, 579.16376pt x 545.03625pt>
 File: 0394-kilobyte.png Graphic file (type png)
  <use 0394-kilobyte.png>
-Underfull \hbox (badness 10000) in alignment at lines 347--347
+Underfull \hbox (badness 10000) in alignment at lines 346--346
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 356--356
+Underfull \hbox (badness 10000) in alignment at lines 355--355
 [][] 
  []
 
 [9 <./0394-kilobyte.png (PNG copy)>] [10]
-Underfull \hbox (badness 10000) in alignment at lines 380--380
+Underfull \hbox (badness 10000) in alignment at lines 379--379
 [][] 
  []
 
-[11] (./info.aux)
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
- ) 
+[11] (./info.aux) ) 
 Here is how much of TeX's memory you used:
  7322 strings out of 495021
  105720 string characters out of 1181035
@@ -597,16 +587,16 @@ Here is how much of TeX's memory you used:
  48632 words of font info for 57 fonts, out of 3000000 for 9000
  29 hyphenation exceptions out of 8191
  43i,11n,45p,1290b,571s stack positions out of 5000i,500n,10000p,200000b,50000s
-{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/share/texmf-texli
-ve/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf-texlive/fonts/ty
-pe1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fonts/type1/public/a
-msfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/public/amsfonts/cm/cm
-sy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucrr8a.pfb></usr/sha
-re/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/share/texmf-texlive/
-fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/t
-imes/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmr8a.pfb></us
-r/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on info.pdf (11 pages, 217973 bytes).
+{/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/
+share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf
+-texlive/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texmf-texlive/fon
+ts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texmf-texlive/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb></usr/share/texmf-texlive/fonts/type1/urw/courier/ucr
+r8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
+re/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/
+fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
+s/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
+Output written on info.pdf (11 pages, 217488 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
