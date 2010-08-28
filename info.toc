@@ -11,6 +11,6 @@
 \contentsline {section}{\numberline {4}Schlusswort}{5}{section.4}
 \contentsline {section}{\numberline {A}Kurzzusammenfassung}{6}{appendix.A}
 \contentsline {section}{\numberline {B}Links und weiterf\IeC {\"u}hrende Informationen}{6}{appendix.B}
-\contentsline {section}{\numberline {C}Begriffe}{6}{appendix.C}
-\contentsline {section}{\numberline {D}Umrechnungstabellen}{8}{appendix.D}
-\contentsline {section}{\numberline {E}M\IeC {\"o}glichkeiten des Loggings und der Filterung}{9}{appendix.E}
+\contentsline {section}{\numberline {C}Begriffe}{7}{appendix.C}
+\contentsline {section}{\numberline {D}Umrechnungstabellen}{9}{appendix.D}
+\contentsline {section}{\numberline {E}M\IeC {\"o}glichkeiten des Loggings und der Filterung}{10}{appendix.E}

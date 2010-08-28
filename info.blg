@@ -2,46 +2,44 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: info.aux
 The style file: plain.bst
 Database file #1: links.bib
-Warning--to sort, need author or key in MIT1
-You've used 2 entries,
+You've used 14 entries,
             2118 wiz_defined-function locations,
-            505 strings with 4073 characters,
-and the built_in function-call counts, 365 in all, are:
-= -- 29
-> -- 8
+            565 strings with 5693 characters,
+and the built_in function-call counts, 2826 in all, are:
+= -- 246
+> -- 98
 < -- 0
-+ -- 4
-- -- 2
-* -- 13
-:= -- 55
-add.period$ -- 3
-call.type$ -- 2
-change.case$ -- 7
++ -- 42
+- -- 28
+* -- 78
+:= -- 467
+add.period$ -- 38
+call.type$ -- 14
+change.case$ -- 52
 chr.to.int$ -- 0
-cite$ -- 3
-duplicate$ -- 14
-empty$ -- 46
-format.name$ -- 2
-if$ -- 81
+cite$ -- 14
+duplicate$ -- 98
+empty$ -- 309
+format.name$ -- 28
+if$ -- 611
 int.to.chr$ -- 0
-int.to.str$ -- 2
+int.to.str$ -- 14
 missing$ -- 0
-newline$ -- 10
-num.names$ -- 2
-pop$ -- 17
+newline$ -- 69
+num.names$ -- 28
+pop$ -- 146
 preamble$ -- 1
-purify$ -- 5
+purify$ -- 42
 quote$ -- 0
-skip$ -- 18
+skip$ -- 93
 stack$ -- 0
-substring$ -- 10
-swap$ -- 2
+substring$ -- 70
+swap$ -- 14
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 8
-warning$ -- 1
-while$ -- 2
-width$ -- 3
-write$ -- 15
-(There was 1 warning)
+type$ -- 56
+warning$ -- 0
+while$ -- 28
+width$ -- 16
+write$ -- 126

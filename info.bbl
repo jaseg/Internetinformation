@@ -1,10 +1,74 @@
-\begin{thebibliography}{1}
-
-\bibitem{MIT1}
-{OpenCourseWare Project}.
+\begin{thebibliography}{10}
 
 \bibitem{CCC1}
 CCC.
 \newblock {Forderungen für ein lebenswertes Netz}, 2010.
+\newblock \\\url{http://ccc.de/de/updates/2010/forderungen-lebenswertes-netz}.
+
+\bibitem{FSFE1}
+Free Software~Foundation Europe.
+\newblock \\\url{http://fsfe.org/}.
+
+\bibitem{FSF1}
+Free~Software Foundation.
+\newblock \\\url{http://www.fsf.org/}.
+
+\bibitem{BK1}
+Blinde Kuh Die~Suchmaschine für Kinder.
+\newblock {Artikel über Filtersoftware und deren Probleme (mit Schwerpunkt auf
+  jüngere Kinder)}.
+\newblock \\\url{http://www.blinde-kuh.de/schutz.html}.
+
+\bibitem{BSI1}
+Bundesamt für Sicherheit in~der Informationstechnik.
+\newblock {DNS-Spoofing und Pharming -- Beispiele}, 2007.
+\newblock \\\url{http://tinyurl.com/3ye43tw}.
+
+\bibitem{AKZ1}
+Arbeitskreis gegen Internet-Sperren~und Zensur.
+\newblock \\\url{http://ak-zensur.de/}.
+
+\bibitem{WPG1}
+Wikipedia Germany.
+\newblock {Zensur im Internet (Seite mit Informationen über
+  Filtertechnologien)}, 2010.
+\newblock \\\url{http://de.wikipedia.org/wiki/Zensur_im_Internet}.
+
+\bibitem{WPG2}
+Wikpedia Germany.
+\newblock {DNS-Spoofing (DNS-Sperren)}, 2010.
+\newblock \\\url{http://de.wikipedia.org/wiki/DNS-Spoofing}.
+
+\bibitem{IABC1}
+Internet-ABC.
+\newblock {Wissen wie's geht -- Jugendschutz im Internet (v.a. an Eltern
+  gerichtet)}.
+\newblock \\\url{http://www.internet-abc.de/eltern/112273.php}.
+
+\bibitem{MIT1}
+Masachusetts~Institute of~Technology.
+\newblock {OpenCourseWare Project}.
+\newblock \\\url{http://ocw.mit.edu/index.htm}.
+
+\bibitem{AKV1}
+Arbeitskreis Vorratsdatenspeicherung.
+\newblock \\\url{http://www.vorratsdatenspeicherung.de/index.php}.
+
+\bibitem{WSR1}
+webshoprecht.de.
+\newblock {Internet-Service-Provider: Rechtliche Fragen}.
+\newblock \\\url{http://www.webshoprecht.de/IRModule/ISP.php#20}.
+
+\bibitem{WP1}
+Wikipedia.
+\newblock {Internet Censorship (Artikel über Sperr- und Filtertechnologien;
+  besonders beachtenswert: Software- und Circumvention-Abschnitte)}, 2010.
+\newblock \\\url{http://en.wikipedia.org/wiki/Internet_censorship}.
+
+\bibitem{SZ1}
+Süddeutsche Zeitung.
+\newblock {Urteil zur Vorratsdatenspeicherung -- Karlsruhe kippt deutsche
+  Regelung}, 2010.
+\newblock \\\url{http://tinyurl.com/2vcabjy}.
 
 \end{thebibliography}
