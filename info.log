@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.26)  28 AUG 2010 14:32
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.27)  29 AUG 2010 20:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -145,8 +145,7 @@ Package ifvtex Info: VTeX not detected.
 \Gm@odd@mp=\dimen105
 \Gm@even@mp=\dimen106
 \Gm@dimlist=\toks20
-
-(/usr/share/texmf-texlive/tex/xelatex/xetexconfig/geometry.cfg))
+)
 (/usr/share/texmf-texlive/tex/latex/eurosym/eurosym.sty
 Package: eurosym 1998/08/06 v1.1 European currency symbol ``Euro''
 \@eurobox=\box27
@@ -469,7 +468,7 @@ LaTeX Info: Redefining \pageref on input line 49.
 \openout3 = `info.out'.
 
 \AtBeginShipoutBox=\box54
- (/usr/share/texmf/tex/context/base/supp-pdf.mkii
+ (/usr/share/texmf-texlive/tex/context/base/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
 \scratchcounter=\count110
 \scratchdimen=\dimen128
@@ -538,52 +537,52 @@ LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 
 
 Package multicol Warning: I moved some lines to the next page.
-(multicol)                Footnotes on page 2 might be wrong on input line 124.
+(multicol)                Footnotes on page 2 might be wrong on input line 125.
 
 
 [2] [3] [4] [5]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 238.
+(Font)              Font shape `T1/phv/b/n' tried instead on input line 240.
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 242.
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 244.
  (./info.bbl [6]) [7] [8]
-Underfull \hbox (badness 10000) in alignment at lines 308--308
+Underfull \hbox (badness 10000) in alignment at lines 310--310
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 320--320
+Underfull \hbox (badness 10000) in alignment at lines 322--322
 [][][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 331--331
+Underfull \hbox (badness 10000) in alignment at lines 333--333
 [][] 
  []
 
 <0394-kilobyte.png, id=162, 579.16376pt x 545.03625pt>
 File: 0394-kilobyte.png Graphic file (type png)
  <use 0394-kilobyte.png>
-Underfull \hbox (badness 10000) in alignment at lines 346--346
+Underfull \hbox (badness 10000) in alignment at lines 348--348
 [][] 
  []
 
 
-Underfull \hbox (badness 10000) in alignment at lines 355--355
+Underfull \hbox (badness 10000) in alignment at lines 357--357
 [][] 
  []
 
 [9 <./0394-kilobyte.png (PNG copy)>] [10]
-Underfull \hbox (badness 10000) in alignment at lines 379--379
+Underfull \hbox (badness 10000) in alignment at lines 381--381
 [][] 
  []
 
 [11] (./info.aux) ) 
 Here is how much of TeX's memory you used:
- 7322 strings out of 495021
- 105720 string characters out of 1181035
- 210558 words of memory out of 3000000
- 10304 multiletter control sequences out of 15000+50000
+ 7317 strings out of 495021
+ 105534 string characters out of 1181035
+ 210545 words of memory out of 3000000
+ 10302 multiletter control sequences out of 15000+50000
  48632 words of font info for 57 fonts, out of 3000000 for 9000
  29 hyphenation exceptions out of 8191
  43i,11n,45p,1290b,571s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -596,7 +595,7 @@ r8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
 re/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
 s/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on info.pdf (11 pages, 217543 bytes).
+Output written on info.pdf (11 pages, 217508 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
