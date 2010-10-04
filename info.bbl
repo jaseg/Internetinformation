@@ -5,9 +5,19 @@ CCC.
 \newblock {Forderungen für ein lebenswertes Netz}, 2010.
 \newblock \\\url{http://ccc.de/de/updates/2010/forderungen-lebenswertes-netz}.
 
+\bibitem{DESTATIS1}
+Statistisches~Bundesamt Deutschland.
+\newblock {Statistiken zur Informationsgesellschaft}.
+\newblock \\\url{http://tinyurl.com/365y3fw}.
+
 \bibitem{FSFE1}
 Free Software~Foundation Europe.
 \newblock \\\url{http://fsfe.org/}.
+
+\bibitem{AGOF1}
+Arbeitsgemeinschaft~Online Forschung.
+\newblock {Internet Facts 2010-II (deutsch)}.
+\newblock \\\url{http://www.agof.de/index.583.html}.
 
 \bibitem{FSF1}
 Free~Software Foundation.
@@ -50,6 +60,12 @@ Masachusetts~Institute of~Technology.
 \newblock {OpenCourseWare Project}.
 \newblock \\\url{http://ocw.mit.edu/index.htm}.
 
+\bibitem{ARD1}
+Tagesschau.
+\newblock {Ergebnisse der ARD/ZDF-Onlinestudie 2010: Fast 50 Millionen Deutsche
+  sind online}.
+\newblock \\\url{http://tinyurl.com/2cs9epx}.
+
 \bibitem{AKV1}
 Arbeitskreis Vorratsdatenspeicherung.
 \newblock \\\url{http://www.vorratsdatenspeicherung.de/index.php}.
@@ -64,6 +80,12 @@ Wikipedia.
 \newblock {Internet Censorship (Artikel über Sperr- und Filtertechnologien;
   besonders beachtenswert: Software- und Circumvention-Abschnitte)}, 2010.
 \newblock \\\url{http://en.wikipedia.org/wiki/Internet_censorship}.
+
+\bibitem{ZEIT1}
+Christoph Drösser~(Die Zeit).
+\newblock {Die Gedanken sind Frei -- Verbote und Zensur taugen nicht für die
+  neuen Medien}.
+\newblock \\\url{http://www.zeit.de/2002/22/200222_t-gewaltspiele_-.xml}.
 
 \bibitem{SZ1}
 Süddeutsche Zeitung.
