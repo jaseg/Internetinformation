@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.27)  29 AUG 2010 20:56
+This is pdfTeX, Version 3.1415926-1.40.10 (TeX Live 2009/Debian) (format=pdflatex 2010.8.27)  31 AUG 2010 15:05
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -161,11 +161,11 @@ Package: fontenc 2005/09/27 v1.99g Standard LaTeX package
 File: t1enc.def 2005/09/27 v1.99g Standard LaTeX file
 LaTeX Font Info:    Redeclaring font encoding T1 on input line 43.
 ))
-(/usr/share/texmf-texlive/tex/generic/german/ngerman.sty v2.5e 1998-07-08
-Package: ngerman 1998/07/08 v2.5e Support for writing german texts (br)
+(/usr/share/texmf-texlive/tex/generic/german/german.sty v2.5e 1998-07-08
+Package: german 1998/07/08 v2.5e Support for writing german texts (br)
 \grmnU@D=\dimen107
-ngerman -- \language number for naustrian undefined, default 4 used.
-ngerman -- \language number for French undefined, default 255 used.
+german -- \language number for Austrian undefined, default 5 used.
+german -- \language number for French undefined, default 255 used.
 )
 (/usr/share/texmf-texlive/tex/latex/setspace/setspace.sty
 Package: setspace 2000/12/01 6.7 Contributed and Supported LaTeX2e package
@@ -376,15 +376,6 @@ Package color Info: Driver file: pdftex.def on input line 130.
 Package: todo 2002/07/25 v1.1 To-do list (Federico Garcia)
 \@todotoks=\toks24
 \c@todo=\count108
-)
-(/usr/share/texmf-texlive/tex/latex/draftwatermark/draftwatermark.sty
-Package: draftwatermark 2006/06/30 1.0 Put a gray textual watermark on document
- pages
-
-(/usr/share/texmf-texlive/tex/latex/everypage/everypage.sty
-Package: everypage 2007/06/20 1.1 Hooks to run on every page
-)
-\sc@wm@fontsize=\skip51
 ) (./info.aux)
 \openout1 = `info.aux'.
 
@@ -529,9 +520,9 @@ Class scrartcl Info: You've told me to use the font selection of the element
 \tf@toc=\write4
 \openout4 = `info.toc'.
 
- [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
+ [1
 
-]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
 LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <12> not available
 (Font)              Font shape `T1/phv/b/n' tried instead on input line 92.
 
@@ -573,18 +564,18 @@ Underfull \hbox (badness 10000) in alignment at lines 357--357
  []
 
 [9 <./0394-kilobyte.png (PNG copy)>] [10]
-Underfull \hbox (badness 10000) in alignment at lines 381--381
+Underfull \hbox (badness 10000) in alignment at lines 389--389
 [][] 
  []
 
 [11] (./info.aux) ) 
 Here is how much of TeX's memory you used:
- 7317 strings out of 495021
- 105534 string characters out of 1181035
- 210545 words of memory out of 3000000
- 10302 multiletter control sequences out of 15000+50000
- 48632 words of font info for 57 fonts, out of 3000000 for 9000
- 29 hyphenation exceptions out of 8191
+ 7268 strings out of 495021
+ 104431 string characters out of 1181035
+ 208804 words of memory out of 3000000
+ 10261 multiletter control sequences out of 15000+50000
+ 45910 words of font info for 55 fonts, out of 3000000 for 9000
+ 30 hyphenation exceptions out of 8191
  43i,11n,45p,1290b,571s stack positions out of 5000i,500n,10000p,200000b,50000s
 {/usr/share/texmf-texlive/fonts/enc/dvips/base/8r.enc}</usr/
 share/texmf-texlive/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texmf
@@ -595,7 +586,7 @@ r8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/helvetic/uhvb8a.pfb></usr/sha
 re/texmf-texlive/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/share/texmf-texlive/
 fonts/type1/urw/times/utmb8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/time
 s/utmr8a.pfb></usr/share/texmf-texlive/fonts/type1/urw/times/utmri8a.pfb>
-Output written on info.pdf (11 pages, 217508 bytes).
+Output written on info.pdf (11 pages, 217011 bytes).
 PDF statistics:
  230 PDF objects out of 1000 (max. 8388607)
  54 named destinations out of 1000 (max. 500000)
