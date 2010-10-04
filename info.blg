@@ -2,44 +2,50 @@ This is BibTeX, Version 0.99c (TeX Live 2009/Debian)
 The top-level auxiliary file: info.aux
 The style file: plain.bst
 Database file #1: links.bib
-You've used 18 entries,
+I was expecting a `,' or a `}'---line 76 of file links.bib
+ : 
+ : @MISC{BK1,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+You've used 19 entries,
             2118 wiz_defined-function locations,
-            585 strings with 6259 characters,
-and the built_in function-call counts, 3634 in all, are:
-= -- 318
-> -- 126
+            589 strings with 6368 characters,
+and the built_in function-call counts, 3840 in all, are:
+= -- 337
+> -- 133
 < -- 0
-+ -- 54
-- -- 36
-* -- 98
-:= -- 599
-add.period$ -- 50
-call.type$ -- 18
-change.case$ -- 68
++ -- 57
+- -- 38
+* -- 104
+:= -- 633
+add.period$ -- 53
+call.type$ -- 19
+change.case$ -- 72
 chr.to.int$ -- 0
-cite$ -- 18
-duplicate$ -- 126
-empty$ -- 397
-format.name$ -- 36
-if$ -- 787
+cite$ -- 19
+duplicate$ -- 133
+empty$ -- 419
+format.name$ -- 38
+if$ -- 832
 int.to.chr$ -- 0
-int.to.str$ -- 18
+int.to.str$ -- 19
 missing$ -- 0
-newline$ -- 89
-num.names$ -- 36
-pop$ -- 190
+newline$ -- 94
+num.names$ -- 38
+pop$ -- 199
 preamble$ -- 1
-purify$ -- 54
+purify$ -- 57
 quote$ -- 0
-skip$ -- 117
+skip$ -- 124
 stack$ -- 0
-substring$ -- 90
-swap$ -- 18
+substring$ -- 95
+swap$ -- 19
 text.length$ -- 0
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 72
+type$ -- 76
 warning$ -- 0
-while$ -- 36
-width$ -- 20
-write$ -- 162
+while$ -- 38
+width$ -- 21
+write$ -- 172
+(There was 1 error message)
