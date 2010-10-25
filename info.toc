@@ -10,10 +10,7 @@
 \contentsline {subsection}{\numberline {3.3}Unter Verwendung neuer Infrastruktur}{6}{subsection.3.3}
 \contentsline {section}{\numberline {4}Schlusswort}{6}{section.4}
 \contentsline {section}{\numberline {A}Kurzzusammenfassung}{7}{appendix.A}
-\contentsline {section}{\numberline {B}Zu den Punkten von Hr.\ Tesarz und Hr.\ Schuricht}{7}{appendix.B}
-\contentsline {subsection}{\numberline {B.1}Bandbreite}{7}{subsection.B.1}
-\contentsline {subsection}{\numberline {B.2}Zu den aufgeworfenen L\IeC {\"o}sungen}{8}{subsection.B.2}
-\contentsline {section}{\numberline {C}Links und weiterf\IeC {\"u}hrende Informationen}{9}{appendix.C}
-\contentsline {section}{\numberline {D}Begriffe}{10}{appendix.D}
-\contentsline {section}{\numberline {E}Umrechnungstabellen}{12}{appendix.E}
-\contentsline {section}{\numberline {F}M\IeC {\"o}glichkeiten des Loggings und der Filterung}{13}{appendix.F}
+\contentsline {section}{\numberline {B}Links und weiterf\IeC {\"u}hrende Informationen}{7}{appendix.B}
+\contentsline {section}{\numberline {C}Begriffe}{8}{appendix.C}
+\contentsline {section}{\numberline {D}Umrechnungstabellen}{10}{appendix.D}
+\contentsline {section}{\numberline {E}M\IeC {\"o}glichkeiten des Loggings und der Filterung}{11}{appendix.E}
